@@ -32,9 +32,9 @@ OOP • Data Structures • Algorithms • Agile Development • Prompt Engineer
 
 📂 Projects 
 --------------------------------------------------------
-🎓 Student Management System :
-===> Desktop application developed using WinDev 28 <===
-🔗 Repository: https://github.com/yasmine-evy/Student-Management
+- 🎓 Student Management System :
+- Desktop application developed using WinDev 28 -
+- 🔗 Repository: https://github.com/yasmine-evy/Student-Management
 
 Features
 --------------------------------------------------------
