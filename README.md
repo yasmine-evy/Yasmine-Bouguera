@@ -4,11 +4,11 @@ Computer Science (ISIL) graduate passionate about software engineering, full-sta
 
 About Me
 ----------------------------------------------------------------------------------------------------
-• 🎓 Licence in Computer Science (ISIL) – USTHB
-• 💻 Junior Software Developer
-• 🌱 Currently improving my skills in Full-Stack Development
-• 🤝 Teamwork-oriented and Agile development enthusiast
-• 📚 Helped more than 2500 university students through educational communities and technical summaries
+- 🎓 Licence in Computer Science (ISIL) – USTHB
+- 💻 Junior Software Developer
+- 🌱 Currently improving my skills in Full-Stack Development
+- 🤝 Teamwork-oriented and Agile development enthusiast
+- 📚 Helped more than 2500 university students through educational communities and technical summaries
 
 Programming Languages
 --------------------------------------------------------
@@ -32,9 +32,9 @@ OOP • Data Structures • Algorithms • Agile Development • Prompt Engineer
 
 📂 Projects 
 --------------------------------------------------------
-- 🎓 Student Management System :
-- Desktop application developed using WinDev 28 -
-- 🔗 Repository: https://github.com/yasmine-evy/Student-Management
+🎓 Student Management System :
+-   Desktop application developed using WinDev 28 -
+🔗 Repository: https://github.com/yasmine-evy/Student-Management
 
 Features
 --------------------------------------------------------
