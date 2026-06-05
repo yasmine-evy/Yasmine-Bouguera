@@ -35,6 +35,7 @@ OOP • Data Structures • Algorithms • Agile Development • Prompt Engineer
 🎓 Student Management System :
 -   Desktop application developed using WinDev 28.
 - 🔗 Repository: https://github.com/yasmine-evy/Student-Management
+
 Features
 --------------------------------------------------------
 Student management | Grade management | Results calculation | Academic record tracking
@@ -42,6 +43,7 @@ Student management | Grade management | Results calculation | Academic record tr
 🎮 UNO Game :
 -   Java desktop application implementing the classic UNO card game.
 - 🔗 Youtube Video : https://youtu.be/tVjJWD1qJdo?si=cFUV0U8g9HFrzZ1L
+
 Features
 --------------------------------------------------------
 GUI Interface | Game Logic | Score Management
@@ -49,6 +51,7 @@ GUI Interface | Game Logic | Score Management
 ✈️ Flight Booking System :
 -   Console application developed in C.
 - 🔗 Repository: https://github.com/yasmine-evy/Flight-Reservations
+
 Features
 --------------------------------------------------------
 Flight reservation | Seat management | Ticket booking
@@ -56,6 +59,7 @@ Flight reservation | Seat management | Ticket booking
 🚖 VTC Application Prototype :
 -   Team project inspired by ride-hailing applications.
 - 🔗 Repository: https://github.com/yasminebounasla/Application-de-Transport-Securise-avec-Recommandation-et-OCR
+
 Features
 --------------------------------------------------------
 Authentication | Driver management | Ride requests
@@ -65,4 +69,4 @@ Authentication | Driver management | Ride requests
 - Email: yasmine.workbox@gmail.com
 - LinkedIn: www.linkedin.com/in/yasmine-bouguera-01711b377
 
---------------------------------- Continuous learning and building practical solutions. ---------------------------------
+--------------------------------- Continuous learning and building practical solutions ----------------------------------
